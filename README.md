@@ -1,7 +1,7 @@
 ## Overview
 This Python script, `Average_Quantity.py`, processes a collection of CSV files which in our example here is representing flow field data from a Computational Fluid Dynamics (CFD) simulation. 
 It computes the average of each column to create a representative dataset and visualizes the averaged velocity field in 3D. This script can be applied to any sorts of data processing.
-A complemetary pdf file "Report.pdf" is also provided for the better implication of such code.
+A complemetary pdf file "Report.pdf" is also provided for the better understanding regarding the implications of such code.
 
 ## Usage
 Place the script in the same directory as the `Data` folder containing your CSV files. Ensure the file naming follows a consistent pattern (e.g., `1.csv`, `2.csv`, ..., `n.csv`).
